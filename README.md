@@ -1,2 +1,2 @@
 # KB-VLT
-Code for the VQA Task
+Collation project in progress.
